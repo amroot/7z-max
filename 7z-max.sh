@@ -2,11 +2,8 @@
 
 # 7z-max.sh - 7z max compression with a password
 
-### Path to 7z
-## Ubuntu:
-zpath=/usr/bin/7z
-## Centos:
-#zpath=/usr/bin/7za
+### Path to 7z or 7za
+zpath=/usr/bin/7za
 ## Other:
 #zpath=
 
